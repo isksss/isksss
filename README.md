@@ -1,7 +1,13 @@
-### Hi there 👋
-趣味はdotfilesいじりです。  
+# isksss
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isksss&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=isksss&theme=onedark&show_icons=ture" />
-</p>
+## 作ったもの
+
+- [家計簿](https://kakeibo.isksss.dev)
+
+## よく使う言語、フレームワーク
+
+- java
+- javascript
+- typescript
+- springboot
+- vue3
