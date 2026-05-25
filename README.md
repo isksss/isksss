@@ -2,13 +2,13 @@
 
 ## 作ったもの
 
+- [dotfiles](https://github.com/isksss/dotfiles)
+
 ### 2026
 
-#### main
-
-#### dev
-- [家計簿](https://kakeibo.isksss.dev)
-- [dotfiles](https://github.com/isksss/dotfiles)
+- [sqio](https://github.com/isksss/sqio)
+- [sqlFormatterJava](https://github.com/isksss/sqlFormatterJava)
+- [FQDNGuard](https://github.com/isksss/FQDNGuard)
 
 ## よく使う言語、フレームワーク
 
@@ -19,3 +19,4 @@
 - vue3
 - Nuxt
 - tailwindcss
+- go
